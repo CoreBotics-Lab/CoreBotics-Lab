@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Syed Abdul Hayi M</h1>  
 
-<!--
-**CoreBotics-Lab/CoreBotics-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧭 The Ethics of CoreBotics-Lab
 
-Here are some ideas to get you started:
+At this lab, innovation is guided by a core ethical boundary:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **The Goal:** Developing robotic systems for rescue and high-risk environments (Chemical, Heavy Metal, Disaster zones).
+-   **The Taboo:** I will never create technology intended to replace humans in safe work environments (e.g., service industry or cafe automation).
+
+I believe that many families depend on these "safe" jobs, and replacing them for corporate efficiency harms society. My focus is on **Safety over Savings.**
+<p align="left">  
+</p>  
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corebotics-lab&show_icons=true&locale=en" alt="corebotics-lab" /></p>
