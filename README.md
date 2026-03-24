@@ -4,17 +4,19 @@
   <h3>🛡️ CoreBotics-Lab: Robotics for Human Preservation</h3>
 </div>
 
-Innovation here is guided by a core ethical boundary:
+Innovation here is guided by a clear technical and ethical mission:
 
-- 🚀 **The Goal:** Developing robotic systems for rescue and high-risk environments (Chemical, Heavy Metal, Disaster zones).
-- 🚫 **The Taboo:** I will never create technology intended to replace humans in safe work environments. I believe robots are for saving lives, not replacing livelihoods.
+- 🚀 **The Mission:** Advancing autonomous systems for the **3D tasks**: those that are too **Dull, Dirty, or Dangerous** for the human body.
+- 🛡️ **The Focus:** My work is dedicated to **Dangerous Environments**—developing robotic shields for rescue and high-risk zones (Chemical, Heavy Metal, Disaster areas).
+- 🚫 **The Boundary:** I focus on technology that protects, not replaces. I do not develop systems intended to displace human presence in social or service roles where human interaction is the core value.
 
 ---
 
 ### 🛠️ Current Focus
-- 🤖 Developing in **ROS2 Jazzy** within **Docker** containers.
-- 🏗️ Building robust workspaces for hazardous environment simulation.
-- 🛡️ Prioritizing **Safety over Savings** in every line of code.
+- 🤖 **Middleware:** Developing in **ROS2 Jazzy**.
+- 🐳 **Environment:** Architecting workspaces within **Docker** containers for modularity.
+- 🏗️ **Simulation:** Building robust environment simulations.
+- 🛡️ **Optimization:** Prioritizing **Memory Management** in every line of code.
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">
