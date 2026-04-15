@@ -8,7 +8,7 @@ Innovation here is guided by a clear technical and ethical mission:
 
 - 🚀 **The Mission:** Advancing autonomous systems for the **3D tasks**: those that are too **Dull, Dirty, or Dangerous** for the human body.
 - 🛡️ **The Focus:** My work is dedicated to **Dangerous Environments**—developing robotic shields for rescue and high-risk zones (Chemical, Heavy Metal, Disaster areas).
-- 🚫 **The Boundary:** I focus on technology that protects, not replaces. I do not develop systems intended to displace human presence in social or service roles where human interaction is the core of the service.
+- 🚫 **The Boundary:** I focus on technology that protects, not replaces. I do not develop systems intended to displace human presence in social or service roles where human interaction is the core value.
 
 ---
 
