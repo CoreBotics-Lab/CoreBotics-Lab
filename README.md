@@ -13,7 +13,7 @@ Innovation here is guided by a clear technical and ethical mission:
 ---
 
 ### 🛠️ Current Focus
-- 🤖 **Middleware:** Developing in **ROS2 Jazzy**.
+- 🤖 **Middleware:** Developing in **ROS2**.
 - 🐳 **Environment:** Architecting workspaces within **Docker** containers for modularity.
 - 🏗️ **Simulation:** Building robust environment simulations.
 - 🛡️ **Optimization:** Prioritizing **Memory Management** in every line of code.
